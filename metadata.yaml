@@ -1,0 +1,38 @@
+_repo: Lectures-on-Art_11391
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Allston, Washington
+    aliases:
+    - Allston, W. (Washington)
+    - Alston, Washington
+    birthdate: 1779
+    deathdate: 1843
+    gutenberg_agent_id: '3817'
+    url: http://www.gutenberg.org/2009/agents/3817
+    wikipedia: http://en.wikipedia.org/wiki/Washington_Allston
+  editor:
+    agent_name: Dana, Richard Henry
+    alias: Dana, R. H. (Richard Henry)
+    birthdate: 1815
+    deathdate: 1882
+    gutenberg_agent_id: '803'
+    url: http://www.gutenberg.org/2009/agents/803
+    wikipedia: http://en.wikipedia.org/wiki/Richard_Henry_Dana,_Jr.
+description: Lectures on art. -- Aphorisms. -- The hypochondriac. -- Poems.
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11391'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'N'
+- !lcsh 'Art'
+- GITenberg
+tableOfContents: 'Lectures on art: Preliminary note--Ideas. Introductory discourse.
+  Art. Form. Composition -- Aphorisms -- The hypochondriac.'
+title: Lectures on Art
+url: http://www.gutenberg.org/ebooks/11391
