@@ -1,5 +1,8 @@
 _repo: Lectures-on-Art_11391
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Allston, Washington
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/803
     wikipedia: http://en.wikipedia.org/wiki/Richard_Henry_Dana,_Jr.
 description: Lectures on art. -- Aphorisms. -- The hypochondriac. -- Poems.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11391#Lectures-on-Art
 gutenberg_issued: '2004-03-01'
 gutenberg_type: Text
 identifiers:
